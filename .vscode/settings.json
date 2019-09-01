@@ -1,0 +1,8 @@
+{
+    // https://github.com/Microsoft/vscode-react-native/blob/master/doc/customization.md#project-structure
+    "react-native-tools":{
+        "projectRoot":"./platform/mobileReactNative"
+    },
+    "react-native-tools.projectRoot": "./platform/mobileReactNative",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
